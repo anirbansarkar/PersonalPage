@@ -102,9 +102,9 @@ p3{
 }
 .recentworksright{
 	width:45%;
-	margin-left:77%	
+        padding-left:5%;	
 	float:right;
-	position:absolute;
+	position:relative;
 }
 .thumbs{
 	border-radius:5%;
